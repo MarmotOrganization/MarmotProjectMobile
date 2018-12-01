@@ -69,7 +69,7 @@ dependencies {
 
     // use -ktx for Kotlin
 
-    // optional - Test helpers for LiveData
+    // optional - User helpers for LiveData
     testImplementation "androidx.arch.core:core-testing:$lifecycle_version"
     def room_version = "2.1.0-alpha02"
     implementation "androidx.room:room-runtime:$room_version"
@@ -83,7 +83,7 @@ dependencies {
     // optional - Guava support for Room, including Optional and ListenableFuture
     implementation "androidx.room:room-guava:$room_version"
 
-    // Test helpers
+    // User helpers
     testImplementation "androidx.room:room-testing:$room_version"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.0.2'

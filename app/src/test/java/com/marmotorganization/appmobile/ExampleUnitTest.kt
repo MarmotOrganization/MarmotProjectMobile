@@ -1,4 +1,4 @@
-package com.marmotorganization.marmotprojectmobile
+package com.marmotorganization.appmobile
 
 import org.junit.Test
 

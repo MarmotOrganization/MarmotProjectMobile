@@ -1,4 +1,4 @@
-package com.marmotorganization.marmotprojectmobile
+package com.marmotorganization.appmobile
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
